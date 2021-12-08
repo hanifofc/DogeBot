@@ -40,7 +40,7 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/hanifofc/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/hanifofc/DogeBot/blob/master/hanif.json#L1)
 
 # Installation
 ## Clone Repo & Installation dependencies
